@@ -94,6 +94,6 @@
       <p>Your message will be received anonymously.</p>
     </form>
   </div>
-  <footer>Jai Babu</footer>
+  <footer><h1>Jai Babu</h1>h1></footer>
 </body>
 </html>
