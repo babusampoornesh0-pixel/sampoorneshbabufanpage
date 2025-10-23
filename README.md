@@ -2,7 +2,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>SEND SAMPOORNESH BABU a confession</title>
+  <title>Send Sampoornesh Babu a Confession</title>
   <style>
     /* Gradient orange background */
     body {
@@ -87,7 +87,7 @@
 </head>
 <body>
   <div class="container">
-    <h2>SEND SAMPOORNESH BABU a confession</h2>
+    <h2>Send Sampoornesh Babu a Confession</h2>
     <form action="https://formspree.io/f/xwprdgzr" method="POST">
       <textarea name="message" placeholder="Type your confession here..." required></textarea>
       <button type="submit">Send</button>
