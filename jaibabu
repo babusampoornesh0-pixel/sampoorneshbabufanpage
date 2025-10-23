@@ -1,4 +1,4 @@
-html lang="en">
+<html lang="en">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -124,11 +124,11 @@ html lang="en">
       <textarea name="message" placeholder="Your secret message..." required></textarea>
       <button type="submit">Send</button>
       <div class="note">Your message is anonymous • no name, no email needed</div>
-      <div class="sent" id="sentMsg">✅ Message sent! Thanks for sharing 💫</div>
+      <div class="sent" id="sentMsg">✅ Message sent! Jai Babu</div>
     </form>
   </div>
 
-  <footer>made with ❤️ for confessions</footer>
+  <footer>Babu Lake Babu Sampoornesh Babu</footer>
 
   <script>
     const form = document.getElementById("confessionForm");
